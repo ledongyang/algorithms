@@ -1,3 +1,3 @@
-## Algorithm Problems with JavaScript
+# Algorithm Problems with JavaScript
 
-# 1. String Permutation (backtracking)
+## 1. String Permutation (backtracking)
